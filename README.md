@@ -1,0 +1,1 @@
+# 6.linked_list_palindrome.py-
